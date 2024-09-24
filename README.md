@@ -1,2 +1,2 @@
 # Power-bi-projects
-Hello, friends this is my power bi recect projects what i have done 
+Hello, friends. This is a list of the most recent projects that I have completed.
